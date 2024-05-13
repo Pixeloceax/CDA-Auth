@@ -54,7 +54,7 @@ const SignIn: React.FC = () => {
               />
               <Button label={"Sign In"} />
               <div className="flex">
-                <p>Don't have an account?</p>
+                <p>Don't have a account ?</p>
                 <Link to={"/register"} className="font-bold underline pl-1">
                   Register Here
                 </Link>
